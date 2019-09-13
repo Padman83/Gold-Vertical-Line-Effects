@@ -11,4 +11,4 @@ Gold-Vertical-Line-Effects.
 
 ## Contact
 
-Project Link: [https://github.com/Padman83/Gold-Vertical-Line-Effects] (https://github.com/Padman83/Gold-Vertical-Line-Effects)
+Project Link: [https://github.com/Padman83/Gold-Vertical-Line-Effects]
